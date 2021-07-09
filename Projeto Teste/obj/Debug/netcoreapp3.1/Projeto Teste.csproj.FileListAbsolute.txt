@@ -1,0 +1,13 @@
+C:\Users\mathe\Documents\Projetos C#\Teste git\Projeto Teste\Projeto Teste\bin\Debug\netcoreapp3.1\Projeto Teste.exe
+C:\Users\mathe\Documents\Projetos C#\Teste git\Projeto Teste\Projeto Teste\bin\Debug\netcoreapp3.1\Projeto Teste.deps.json
+C:\Users\mathe\Documents\Projetos C#\Teste git\Projeto Teste\Projeto Teste\bin\Debug\netcoreapp3.1\Projeto Teste.runtimeconfig.json
+C:\Users\mathe\Documents\Projetos C#\Teste git\Projeto Teste\Projeto Teste\bin\Debug\netcoreapp3.1\Projeto Teste.runtimeconfig.dev.json
+C:\Users\mathe\Documents\Projetos C#\Teste git\Projeto Teste\Projeto Teste\bin\Debug\netcoreapp3.1\Projeto Teste.dll
+C:\Users\mathe\Documents\Projetos C#\Teste git\Projeto Teste\Projeto Teste\bin\Debug\netcoreapp3.1\Projeto Teste.pdb
+C:\Users\mathe\Documents\Projetos C#\Teste git\Projeto Teste\Projeto Teste\obj\Debug\netcoreapp3.1\Projeto Teste.csprojAssemblyReference.cache
+C:\Users\mathe\Documents\Projetos C#\Teste git\Projeto Teste\Projeto Teste\obj\Debug\netcoreapp3.1\Projeto Teste.AssemblyInfoInputs.cache
+C:\Users\mathe\Documents\Projetos C#\Teste git\Projeto Teste\Projeto Teste\obj\Debug\netcoreapp3.1\Projeto Teste.AssemblyInfo.cs
+C:\Users\mathe\Documents\Projetos C#\Teste git\Projeto Teste\Projeto Teste\obj\Debug\netcoreapp3.1\Projeto Teste.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\Projetos C#\Teste git\Projeto Teste\Projeto Teste\obj\Debug\netcoreapp3.1\Projeto Teste.dll
+C:\Users\mathe\Documents\Projetos C#\Teste git\Projeto Teste\Projeto Teste\obj\Debug\netcoreapp3.1\Projeto Teste.pdb
+C:\Users\mathe\Documents\Projetos C#\Teste git\Projeto Teste\Projeto Teste\obj\Debug\netcoreapp3.1\Projeto Teste.genruntimeconfig.cache
